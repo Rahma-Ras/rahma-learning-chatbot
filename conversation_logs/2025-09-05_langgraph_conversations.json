@@ -6,5 +6,13 @@
     "type": "LangGraph_Agent",
     "question": "what is my name",
     "response": "Your name is Rahma."
+  },
+  {
+    "timestamp": "2025-09-05T09:16:05.613624",
+    "user": "Rahma (Intern)",
+    "company": "Genaiva",
+    "type": "LangGraph_Agent",
+    "question": "tell me about me",
+    "response": "You've mentioned that your name is Rahma and you work at Genaiva. You also enjoy learning Python programming, going to the gym, and swimming. If there's anything else you'd like to share or discuss, f..."
   }
 ]
